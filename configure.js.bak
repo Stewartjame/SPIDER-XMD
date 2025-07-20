@@ -1,0 +1,42 @@
+// ɴᴏᴛᴇ : ᴄᴏᴘʏ? ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ
+
+// © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝔎𝔦𝔫𝔤 𝔖𝔥𝔞𝔡𝔬𝔴
+
+const fs = require('fs')
+const chalk = require('chalk')
+//=================================================//
+// setting bot
+global.ownernumber= "18494654829"
+global.ownername = "𝔎𝔦𝔫𝔤 𝔖𝔥𝔞𝔡𝔬𝔴"
+global.wagc = "https://whatsapp.com/channel/0029VbAh8wzAInPghu12ey3i"
+global.websitex = "https://whatsapp.com/channel/0029VbAh8wzAInPghu12ey3i"
+global.botname = "𝙎𝙃𝘼𝘿𝙊𝙒-𝙓 𝙇𝙄𝙏𝙀"
+global.author = "18494654829"
+global.botscript = "https://github.com/shadowwrldl/SHADOW-XMD"
+global.xprefix = '.'
+global.autostatus = true 
+global.Public = true 
+//=================================================//
+global.egg = "15"
+global.loc = "1"
+global.domain = ""
+global.apikey = ""
+global.capikey = ""
+//=================================================//
+global.mess = {
+    owner: '`ᴄᴏᴍᴍᴀɴᴅ ʀᴇsᴇʀᴠᴇᴅ ғᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ`',
+ prem: '`ᴄᴏᴍᴍᴀɴᴅ ʀᴇsᴇʀᴠᴇᴅ ғᴏʀ ᴘʀᴇᴍɪᴜᴍ ᴏɴʟʏ`',
+    admin: '`ᴄᴏᴍᴍᴀɴᴅ ʀᴇsᴇʀᴠᴇᴅ ғᴏʀ ᴀᴅᴍɪɴs ᴏɴʟʏ`',
+    group: '`ғᴇᴀᴛᴜʀᴇ ғᴏʀ ɢʀᴏᴜᴘ ᴏɴʟʏ`',
+    done: '`ᴅᴏɴᴇ ✓`',
+    error: 'ᴇʀʀᴏʀ ❌',
+    success: 'sᴜᴄᴄᴇs •'
+}
+//=================================================//
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+fs.unwatchFile(file)
+console.log(chalk.green.bold(`Update ${__filename}`))
+delete require.cache[file]
+require(file)
+})
