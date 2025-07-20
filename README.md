@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=SPIDER-XMD;VERSION+LITE;CREATED+BY+KING+SHADOW" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=SPIDER-XMD;VERSION+LITE;MADE+BY+KING+SHADOW" alt="Typing SVG" />
   </a>
 </p>
     <!-- Glowing Header -->
@@ -24,20 +24,20 @@
    
    <h1 align="center"
 
-![ᴠᴇʀsɪᴏɴ](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![ᴠᴇʀsɪᴏɴ](https://img.shields.io/badge/ᴠᴇʀsɪᴏɴ-1.0.0-blue?style=flat-square)
 ![ᴍᴀɪɴᴛᴀɪɴᴇᴅ](https://img.shields.io/badge/ᴍᴀɪɴᴛᴀɪɴᴇᴅ-ʏᴇs-green?style=flat-square)
-![ʙᴀɪʟᴇʏs](https://img.shields.io/badge/ʙᴀᴇʏs--ᴍᴅ-ᴘᴏᴡᴇʀᴇᴅ-orange?style=flat-square)
+![ʙᴀɪʟᴇʏs](https://img.shields.io/badge/ʙᴀɪʟᴇʏs--ᴍᴅ-ᴘᴏᴡᴇʀᴇᴅ-orange?style=flat-square)
 ![ᴀᴛғᴏʀᴍ](https://img.shields.io/badge/ᴘʟᴀᴛғᴏʀᴍ-ᴡʜᴀᴛsᴀᴘᴘ-darkgreen?style=flat-square)
 
 ## ⚙️ ᴋᴇʏ ғᴇᴀᴛᴜʀᴇs
 
-> 🤖 ᴀɪ ᴄᴍᴅs « ɢᴘᴛ, ᴅᴀʟʟ·ᴇ, ᴠᴏɪᴄᴇ ᴛʀᴀɴsᴄʀɪʙᴇʀ, rʀᴇᴍɢʙ, ᴇᴛᴄ.)
+> 🤖 ᴀɪ ᴄᴍᴅs « ɢᴘᴛ, ᴅᴀʟʟ·ᴇ, ᴠᴏɪᴄᴇ ᴛʀᴀɴsᴄʀɪʙᴇʀ, ʀᴇᴍᴠʙɢ, ᴇᴛᴄ.)
 
-> 📥 Dʟs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ, ᴛɪᴋᴛᴏᴋ, ғᴀᴄᴇʙᴏᴏᴋ, ɪɴsᴛᴀɢʀᴀᴍ, ᴇᴛᴄ.
+> 📥 ᴅʟs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ, ᴛɪᴋᴛᴏᴋ, ғᴀᴄᴇʙᴏᴏᴋ, ɪɴsᴛᴀɢʀᴀᴍ, ᴇᴛᴄ.
 
 > 🔧 ᴀɴᴛɪ-@sᴛᴀᴛᴜs ᴍᴇssᴀɢᴇs, ᴀɴᴛɪ-ᴠᴜᴇ ᴏɴᴄᴇ, ᴀᴜᴛᴏ-ʙɪᴏ, ᴀᴜᴛᴏ-ᴘғʟ, ᴇᴛᴄ.
 
-> 🎮 ғᴜɴ ᴄᴍᴅs : ᴍᴇᴍᴇs, sᴛɪᴄᴋᴇʀs, ǫᴜᴏᴛᴇs, ʟᴏᴄᴇ, ᴇᴛᴄ.
+> 🎮 ғᴜɴ ᴄᴍᴅs : ᴍᴇᴍᴇs, sᴛɪᴄᴋᴇʀs, ʟᴏᴠᴇ, ᴇᴛᴄ.
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
